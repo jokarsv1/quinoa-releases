@@ -7,9 +7,9 @@ This policy explains what information Quinoa handles, where it goes, and the cho
 
 ## 1. Who we are
 
-Quinoa is developed and published by **Avichal Agrawal** ("we", "us"), an individual developer based in India. For the purposes of India's Digital Personal Data Protection Act, 2023 ("DPDP Act") and, where it applies, the EU/UK General Data Protection Regulation ("GDPR"), we are the **Data Fiduciary / data controller** for the limited data described in Section 4.
+Quinoa is developed and published by **Avichal** ("we", "us"), an individual developer based in India. For the purposes of India's Digital Personal Data Protection Act, 2023 ("DPDP Act") and, where it applies, the EU/UK General Data Protection Regulation ("GDPR"), we are the **Data Fiduciary / data controller** for the limited data described in Section 4.
 
-**Contact and grievance officer:** Avichal Agrawal, **jokars.v1@gmail.com**. We aim to reply within 7 days and to resolve grievances within 30 days.
+**Contact and grievance officer:** Avichal, **jokars.v1@gmail.com**. We aim to reply within 7 days and to resolve grievances within 30 days.
 
 ## 2. The short version
 
@@ -96,4 +96,4 @@ If we change this policy, we will update the effective date above and publish th
 
 ## 13. Contact
 
-Avichal Agrawal — **jokars.v1@gmail.com**
+Avichal — **jokars.v1@gmail.com**

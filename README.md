@@ -4,7 +4,7 @@ Private dictation and meeting notes that run entirely on your Mac. Hold a key, s
 
 ## Download
 
-Get the latest **Quinoa-x.y.dmg** from [Releases](https://github.com/jokarsv1/quinoa-releases/releases/latest).
+**[Download Quinoa.dmg](https://github.com/jokarsv1/quinoa-releases/releases/latest/download/Quinoa.dmg)** · Website: https://jokarsv1.github.io/quinoa-releases
 
 Requires a Mac with Apple Silicon (M1 or newer) and macOS 14.2 or later.
 
