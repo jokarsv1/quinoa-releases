@@ -1,6 +1,6 @@
 # Quinoa Privacy Policy
 
-**Effective date:** 19 October 2026
+**Effective date:** 20 October 2026
 **Applies to:** the Quinoa app for macOS, version 1.0 and later
 
 This policy explains what information Quinoa handles, where it goes, and the choices you have. Quinoa is built so that your voice and your words stay on your Mac. Where something does leave your Mac, this policy says exactly what, why and for how long.
@@ -13,7 +13,7 @@ Quinoa is developed and published by **Avichal** ("we", "us"), an individual dev
 
 ## 2. The short version
 
-- Speech recognition, cleanup, your dictionary and meeting transcripts run **entirely on your Mac**. We never receive your audio or what you dictate.
+- Speech recognition, cleanup, your dictionary, meeting transcripts, speaker detection and meeting summaries run **entirely on your Mac** (summaries use Apple's on-device model). We never receive your audio or what you dictate.
 - Quinoa connects to the internet only to: download its speech model, check for updates, and, **only if you turn it on**, share anonymous word corrections.
 - We do not sell, rent or share your data for advertising. There are no ads, trackers or analytics SDKs in Quinoa.
 
@@ -25,7 +25,7 @@ Quinoa stores the following **locally**, in `~/Library/Application Support/Quino
 |---|---|---|
 | Your personal dictionary (`dictionary.json`) | Corrects words the model mishears | Dictionary page, or delete the file |
 | Recent dictations (`learning.json`, last 100) | Learns from the fixes you make | Delete the file |
-| Meeting recordings and transcripts (`Meetings/`) | Shows you your meetings | Delete a meeting in the app (moves to Trash) |
+| Meeting recordings, transcripts, speaker names and summaries (`Meetings/`) | Shows you your meetings | Delete a meeting in the app (moves to Trash) |
 | Shared-corrections queue (`community-pending.json`) | Holds corrections waiting to be shared, if sharing is on | Turn sharing off (clears it) |
 | A correction log (`~/Library/Logs/Quinoa/corrections.log`) | Helps diagnose the correction pop-up | Delete the file |
 | Settings and a random app ID (macOS preferences) | Remembers your choices | Remove Quinoa and its preferences |
@@ -35,7 +35,7 @@ Audio captured while you hold the dictation key is processed in memory and in te
 ## 4. Data that leaves your Mac
 
 ### 4.1 Speech model download (everyone)
-On first launch, Quinoa downloads its speech model (about 450 MB) from **Hugging Face** (huggingface.co). Like any download, Hugging Face receives your IP address and standard request information. No personal data is sent by Quinoa. See Hugging Face's privacy policy.
+On first launch, Quinoa downloads its speech model (about 450 MB) from **Hugging Face** (huggingface.co). The first time you transcribe a meeting, it also downloads small speaker-detection models from the same place. Like any download, Hugging Face receives your IP address and standard request information. No personal data is sent by Quinoa. See Hugging Face's privacy policy.
 
 ### 4.2 Update check (everyone)
 About once a day, Quinoa asks **GitHub** (api.github.com) for the latest version number. GitHub receives your IP address and standard request information. Quinoa sends no other data. See GitHub's privacy statement.
