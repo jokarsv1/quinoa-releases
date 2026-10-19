@@ -23,4 +23,4 @@ Quinoa checks for a new version once a day and shows a banner on its Home screen
 
 ## Privacy
 
-Speech is transcribed on your Mac. Audio and text are never uploaded. The only network requests are the one-time model download and the daily update check.
+Speech is transcribed on your Mac. Audio and text are never uploaded. The only network requests are the one-time model download, the daily update check and, only if you opt in, anonymous word corrections. Read the [privacy policy](PRIVACY.md).
