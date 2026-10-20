@@ -24,3 +24,7 @@ Quinoa checks for a new version once a day and shows a banner on its Home screen
 ## Privacy
 
 Speech is transcribed on your Mac. Audio and text are never uploaded. The only network requests are the one-time model download, the daily update check and, only if you opt in, anonymous word corrections. Read the [privacy policy](PRIVACY.md).
+
+## Terms
+
+Quinoa is free to use under its [Terms of Use](TERMS.md). © 2026 Avichal. All rights reserved. This repository contains only downloads and documentation, not source code.
